@@ -1,5 +1,9 @@
 Zmiana01
 Zmiana07a
 Dodano asystenta pomocy
+<<<<<<< HEAD
 Uproszczenie interfejsu graficznego
 naprawa błędów - hotFix-001
+=======
+Uproszczenie interfejsu graficznego
+>>>>>>> easierApp
