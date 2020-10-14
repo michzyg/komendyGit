@@ -1,2 +1,5 @@
 Zmiana01
 Zmiana07b
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+naprawa błędów - hotFix-001
