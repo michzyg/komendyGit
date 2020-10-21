@@ -1,5 +1,6 @@
 Zmiana01
 Zmiana07a
+Zmiana08
 Dodano asystenta pomocy
 <<<<<<< HEAD
 Uproszczenie interfejsu graficznego
