@@ -3,6 +3,7 @@ Zmiana07a
 Zmiana08
 Zmiana09
 Zmiana10
+Zmiana11
 Dodano asystenta pomocy
 <<<<<<< HEAD
 Uproszczenie interfejsu graficznego
