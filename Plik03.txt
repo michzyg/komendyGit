@@ -6,6 +6,7 @@ Zmiana10
 Zmiana11
 Zmiana12
 Zmiana13
+Zmiana14
 naprawa błędów - hotFix-001
 oraz
 Dodano asystenta pomocy
